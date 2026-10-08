@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.coverage
+tp1/data/notes.txt
+tp1/data/scores.txt
+.env
+.DS_Store
